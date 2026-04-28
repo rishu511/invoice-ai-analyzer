@@ -1,3 +1,5 @@
+<img width="1359" height="682" alt="image" src="https://github.com/user-attachments/assets/981c752e-f3eb-406b-b0cd-4fd77ec8a676" />
+
 # 📄 AI Invoice Analyzer (AWS Textract + Bedrock)
 
 ## 🚀 Overview
